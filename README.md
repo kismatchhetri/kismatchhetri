@@ -10,13 +10,9 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👯 I’m looking to collaborate on **...**
-
-- 🤝 I’m looking for help with **...**
-
 - 👨‍💻 All of my projects are available at [https://github.com/kismatchhetri](https://github.com/kismatchhetri)
 
-- 📝 I regularly write articles on [nothing](nothing)
+- 📝 I regularly write articles on [Climate Change](https://books.google.com.np/books?hl=en&lr=&id=YqXmNrZQwfEC&oi=fnd&pg=PA31&dq=article+on+climate+change&ots=qctzoy0ga1&sig=pWGtQtpxrTHFF2oyGZkg0GB5BQU&redir_esc=y#v=onepage&q=article%20on%20climate%20change&f=false)
 
 - 📫 How to reach me **kismatchhetri23@gmail.com**
 
