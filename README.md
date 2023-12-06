@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/kismatchhetri23" target="blank"><img src="https://img.shields.io/twitter/follow/kismatchhetri23?logo=twitter&style=for-the-badge" alt="kismatchhetri23" /></a> </p>
 
-- 🔭 I’m currently working on **BookMyseat**
+- 🔭 I’m currently working on **Nothing**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Dart**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kismatchhetri](https://github.com/kismatchhetri)
 
