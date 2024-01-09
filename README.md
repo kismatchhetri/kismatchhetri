@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kismat Chhetri</h1>
 <h3 align="center">There's no place like 127.0.0.1</h3><br>
-<img align="right" alt="Coding" autoplay width="450" src="https://cdn.dribbble.com/users/1894420/screenshots/14032021/programming_01.gif">
+<img align="right" alt="Coding" width="450" src="https://sithcomputers.com/wp-content/uploads/2021/02/C-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kismatchhetri&label=Profile%20views&color=0e75b6&style=flat" alt="kismatchhetri" /> </p>
 
