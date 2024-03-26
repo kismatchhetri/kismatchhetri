@@ -6,13 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/kismatchhetri23" target="blank"><img src="https://img.shields.io/twitter/follow/kismatchhetri23?logo=twitter&style=for-the-badge" alt="kismatchhetri23" /></a> </p>
 
-- 🔭 I’m currently working on **--**
-
-- 🌱 I’m currently learning **--**
+- 🔭 I’m currently working on **CP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kismatchhetri](https://github.com/kismatchhetri)
 
-- 📝 I regularly write articles on [--](https://books.google.com.np/books?hl=en&lr=&id=YqXmNrZQwfEC&oi=fnd&pg=PA31&dq=article+on+climate+change&ots=qctzoy0ga1&sig=pWGtQtpxrTHFF2oyGZkg0GB5BQU&redir_esc=y#v=onepage&q=article%20on%20climate%20change&f=false)
+   [](https://books.google.com.np/books?hl=en&lr=&id=YqXmNrZQwfEC&oi=fnd&pg=PA31&dq=article+on+climate+change&ots=qctzoy0ga1&sig=pWGtQtpxrTHFF2oyGZkg0GB5BQU&redir_esc=y#v=onepage&q=article%20on%20climate%20change&f=false)
 
 - 📫 How to reach me **kismatchhetri23@gmail.com**
 
