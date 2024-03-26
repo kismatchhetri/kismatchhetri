@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kismat Chhetri</h1>
-<h3 align="center">There's no place like 127.0.0.1</h3><br>
+<h3 align="center">Github</h3><br>
 <img align="right" alt="Coding" width="450" src="https://static.vecteezy.com/system/resources/previews/019/153/003/original/3d-minimal-programming-icon-coding-screen-web-development-concept-laptop-with-a-coding-screen-and-a-coding-icon-3d-illustration-png.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kismatchhetri&label=Profile%20views&color=0e75b6&style=flat" alt="kismatchhetri" /> </p>
