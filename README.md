@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kismat Chhetri</h1>
 <h3 align="center">Github</h3><br>
-<img align="right" alt="Coding" width="450" src="https://static.vecteezy.com/system/resources/previews/019/153/003/original/3d-minimal-programming-icon-coding-screen-web-development-concept-laptop-with-a-coding-screen-and-a-coding-icon-3d-illustration-png.png">
+<img align="right" alt="Coding" width="450" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-<p align="left"> <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </p>
 
 <p align="left"> <a href="https://twitter.com/kismatchhetri23" target="blank"><img src="https://img.shields.io/twitter/follow/kismatchhetri23?logo=twitter&style=for-the-badge" alt="kismatchhetri23" /></a> </p>
 
