@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kismat Chhetri</h1>
 <h3 align="center">Github</h3><br>
-<img align="right" alt="Coding" width="450"  autoplay="enable" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt="Coding" width="450"  autoplay src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kismatchhetri&label=Profile%20views&color=0e75b6&style=flat" alt="kismatchhetri" /> </p>
 
