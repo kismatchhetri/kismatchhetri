@@ -2,6 +2,7 @@
 <h3 align="center">Github</h3><br>
 <img align="right" alt="Coding" width="450" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kismatchhetri&label=Profile%20views&color=0e75b6&style=flat" alt="kismatchhetri" /> </p>
 
 <p align="left"> <a href="https://twitter.com/kismatchhetri23" target="blank"><img src="https://img.shields.io/twitter/follow/kismatchhetri23?logo=twitter&style=for-the-badge" alt="kismatchhetri23" /></a> </p>
 
